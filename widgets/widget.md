@@ -1,3 +1,3 @@
 # Widget
 
-Widget is an abstract class extends from DiagnosticableTree in Widgets/framework.dart file.
+Widget is an abstract class extends from [DiagnosticableTree](../foundation/diagnosticabletree.md) in Widgets/framework.dart file.
