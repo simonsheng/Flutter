@@ -143,7 +143,7 @@
     * ListWheelScrollView. 
     * Localizations. 
     * Material. 
-    * MaterialApp. 
+    * [MaterialApp](https://api.flutter.dev/flutter/material/MaterialApp-class.html). 
     * MaterialBanner. 
     * MergeableMaterial. 
     * NavigationRail. 
@@ -212,110 +212,111 @@
   * StatelessWidget. 
     * AboutDialog. 
     * AboutListTile. 
-    * ActionChip
-    * AlertDialog
-    * AnimatedIcon
-    * Autocomplete
-    * BackButton
-    * BackButtonIcon
-    * Banner
-    * Builder
-    * ButtonBar
-    * CallbackShortcuts
-    * Card
-    * CheckboxListTile
-    * CheckedModeBanner
-    * Chip
-    * ChoiceChip
-    * CircleAvatar
-    * CloseButton
-    * Container
-    * CupertinoActionSheet
-    * CupertinoActionSheetAction
-    * CupertinoAlertDialog
-    * CupertinoDialogAction
-    * CupertinoFormRow
-    * CupertinoFormSection
-    * CupertinoFullscreenDialogTransition
-    * CupertinoNavigationBarBackButton
-    * CupertinoPageTransition
-    * CupertinoPickerDefaultSelectionOverlay
-    * CupertinoPopupSurface
-    * CupertinoTabBar
-    * CupertinoTextSelectionToolbar
-    * CupertinoTextSelectionToolbarButton
-    * CupertinoTheme
-    * DataTable
-    * DefaultTextEditingShortcuts
+    * ActionChip. 
+    * AlertDialog. 
+    * AnimatedIcon. 
+    * Autocomplete. 
+    * BackButton. 
+    * BackButtonIcon. 
+    * Banner. 
+    * Builder. 
+    * ButtonBar. 
+    * CallbackShortcuts. 
+    * Card. 
+    * CheckboxListTile. 
+    * CheckedModeBanner. 
+    * Chip. 
+    * ChoiceChip. 
+    * CircleAvatar. 
+    * CloseButton. 
+    * Container. 
+    * CupertinoActionSheet. 
+    * CupertinoActionSheetAction. 
+    * CupertinoAlertDialog  
+    * CupertinoDialogAction. 
+    * CupertinoFormRow. 
+    * CupertinoFormSection. 
+    * CupertinoFullscreenDialogTransition. 
+    * CupertinoNavigationBarBackButton. 
+    * CupertinoPageTransition. 
+    * CupertinoPickerDefaultSelectionOverlay. 
+    * CupertinoPopupSurface. 
+    * CupertinoTabBar. 
+    * CupertinoTextSelectionToolbar. 
+    * CupertinoTextSelectionToolbarButton. 
+    * CupertinoTheme. 
+    * DataTable. 
+    * DefaultTextEditingShortcuts. 
     * Dialog
     * DisplayFeatureSubScreen
     * Divider
     * DraggableScrollableActuator
     * Drawer
     * DrawerHeader
-    *  DropdownMenuItem
-    *  ExcludeFocus
-    *  ExcludeFocusTraversal
-    *  FilterChip
-    *  FloatingActionButton
-    *  FlutterLogo
-    *  GestureDetector
-    *  GridPaper
-    *  GridTile
-    *  GridTileBar
-    *  HeroMode
-    *  HtmlElementView
-    *  Icon
-    *  IconButton
-    *  ImageIcon
-    *  InkResponse
-    *  InputChip
-    *  KeyboardListener
-    *  KeyedSubtree
-    *  ListTile
-    *  MaterialButton
-    *  ModalBarrier
-    *  NavigationBar
-    *  NavigationDestination
-    *  NavigationIndicator
-    *  NavigationToolbar
-    *  OrientationBuilder
-    *  PageStorage
-    *  Placeholder
-    *  PositionedDirectional
-    *  PreferredSize
-    *  RadioListTile
-    *  ReorderableDragStartListener
-    *  SafeArea
-    *  Scrollbar
-    *  ScrollView
-    *  SimpleDialog
-    *  SimpleDialogOption
-    *  SingleChildScrollView
-    *  SliverFillRemaining
-    *  SliverFillViewport
-    *  SliverPersistentHeader
-    *  SliverSafeArea
-    *  SliverVisibility
-    *  Spacer
-    *  Switch
-    *  SwitchListTile
-    *  Tab
-    *  TabPageSelector
-    *  TabPageSelectorIndicator
-    *  Text
-    *  TextSelectionToolbar
-    *  TextSelectionToolbarTextButton
-    *  Theme
-    *  Title
-    *  ToggleButtons
-    *  TooltipVisibility
-    *  UnconstrainedBox
-    *  VerticalDivider
-    *  Visibility
+    * DropdownMenuItem
+    * ExcludeFocus
+    * ExcludeFocusTraversal
+    * FilterChip
+    * FloatingActionButton
+    * FlutterLogo
+    * GestureDetector
+    * GridPaper
+    * GridTile
+    * GridTileBar
+    * HeroMode
+    * HtmlElementView
+    * Icon
+    * IconButton
+    * ImageIcon
+    * InkResponse
+    * InputChip
+    * KeyboardListener
+    * KeyedSubtree
+    * ListTile
+    * MaterialButton
+    * ModalBarrier
+    * NavigationBar
+    * NavigationDestination
+    * NavigationIndicator
+    * NavigationToolbar
+    * OrientationBuilder
+    * PageStorage
+    * Placeholder
+    * PositionedDirectional
+    * PreferredSize
+    * RadioListTile
+    * ReorderableDragStartListener
+    * SafeArea
+    * Scrollbar
+    * ScrollView
+    * SimpleDialog
+    * SimpleDialogOption
+    * SingleChildScrollView
+    * SliverFillRemaining
+    * SliverFillViewport
+    * SliverPersistentHeader
+    * SliverSafeArea
+    * SliverVisibility
+    * Spacer
+    * Switch
+    * SwitchListTile
+    * Tab
+    * TabPageSelector
+    * TabPageSelectorIndicator
+    * Text
+    * TextSelectionToolbar
+    * TextSelectionToolbarTextButton
+    * Theme
+    * Title
+    * ToggleButtons
+    * TooltipVisibility
+    * UnconstrainedBox
+    * VerticalDivider
+    * Visibility
 
 [Flutter深入浅出---MaterialApp 45:47](https://www.bilibili.com/video/BV1BM4y1L71Z?p=2). 
-![image](https://docs.flutter.dev/assets/images/docs/arch-overview/archdiagram.png)
+[Flutter architectural overview](https://docs.flutter.dev/resources/architectural-overview). 
+![image](https://docs.flutter.dev/assets/images/docs/arch-overview/archdiagram.png). 
 
 Flutter深入浅出---Scaffold
 28:51
