@@ -315,6 +315,7 @@
     *  Visibility
 
 [Flutter深入浅出---MaterialApp 45:47](https://www.bilibili.com/video/BV1BM4y1L71Z?p=2). 
+![image](https://docs.flutter.dev/assets/images/docs/arch-overview/archdiagram.png)
 
 Flutter深入浅出---Scaffold
 28:51
