@@ -315,6 +315,9 @@
     * Visibility
 
 [Flutter深入浅出---MaterialApp 45:47](https://www.bilibili.com/video/BV1BM4y1L71Z?p=2). 
+> _scaffoldMessageKey.currentState!
+>                .showSnackBar(SnackBar(content: Text("data")));
+
 [Flutter architectural overview](https://docs.flutter.dev/resources/architectural-overview). 
 ![image](https://docs.flutter.dev/assets/images/docs/arch-overview/archdiagram.png). 
 
