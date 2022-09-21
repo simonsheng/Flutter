@@ -15,7 +15,7 @@
   * Installed Eclipse plugin which generated empty png and svg. Fix it later
   * Installed extensions of VSCode which geneaerted empty png and svg. Fix it later.
 ## [Flutter基础视频教程—427个组件全解析](https://www.liujunmin.com/tags/%E7%BB%84%E4%BB%B6%E5%88%86%E6%9E%90/)  
-[Flutter继承关系图 03:01](https://www.bilibili.com/video/BV1BM4y1L71Z?p=1)
+### [Flutter继承关系图 03:01](https://www.bilibili.com/video/BV1BM4y1L71Z?p=1). 
 * Dart Source Code in flutter: /opt/flutter/bin/cache/dart-sdk
 * Flutter Source Code in flutter: /opt/flutter/packages
 (9/20/2022)
@@ -314,9 +314,30 @@
     * VerticalDivider
     * Visibility
 
-[Flutter深入浅出---MaterialApp 45:47](https://www.bilibili.com/video/BV1BM4y1L71Z?p=2). 
-> _scaffoldMessageKey.currentState!
->                .showSnackBar(SnackBar(content: Text("data")));
+### [Flutter深入浅出---MaterialApp 45:47](https://www.bilibili.com/video/BV1BM4y1L71Z?p=2). 
+* navigatorKey
+> _scaffoldMessageKey.currentState!.showSnackBar(SnackBar(content: Text("data")));
+
+* scaffoldMessengerKey
+> _navigatorKey.currentState!.overlay!.context
+
+* home
+* routes and initialRoute
+* onGenerateRoute
+* onGenerateInitialRoutes
+* onUnknownRoute
+* navigatorObservers
+* builder
+* title
+* onGenerateTitle
+* theme
+* dartTheme
+* themeMode
+* highContrastTheme
+* highContrastDarkTheme
+* locale
+* localizationDelegates
+
 
 [Flutter architectural overview](https://docs.flutter.dev/resources/architectural-overview). 
 ![image](https://docs.flutter.dev/assets/images/docs/arch-overview/archdiagram.png). 
