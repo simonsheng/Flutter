@@ -18,6 +18,9 @@
 [Flutter继承关系图 03:01](https://www.bilibili.com/video/BV1BM4y1L71Z?p=1)
 * Dart Source Code in flutter: /opt/flutter/bin/cache/dart-sdk
 * Flutter Source Code in flutter: /opt/flutter/packages
+(9/20/2022)
+* Flutter/foundation/diagnostics.dart -- [mixin Diagnosticable](https://api.flutter.dev/flutter/foundation/Diagnosticable-mixin.html). 
+* [DiagnosticableTree](https://api.flutter.dev/flutter/foundation/DiagnosticableTree-class.html). 
 
 Flutter深入浅出---MaterialApp
 45:47
