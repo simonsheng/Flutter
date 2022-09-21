@@ -23,9 +23,38 @@
 * [DiagnosticableTree](https://api.flutter.dev/flutter/foundation/DiagnosticableTree-class.html). 
 
 
-* Widget
-  * PreferredSizeWidget
-  * ProxyWidget
+* Widget. 
+  * PreferredSizeWidget. 
+    * AppBar. 
+    * CupertinoTabBar. 
+    * ObstructingPreferredSizeWidget. 
+    * PreferredSize. 
+    * Tab. 
+    * TabBar. 
+  * ProxyWidget. 
+    * InheritedWidget. 
+      * BottomNavigationBarTheme
+      * ButtonBarTheme
+      * CheckboxTheme
+      * CupertinoUserInterfaceLevel
+      * DataTableTheme
+      * DefaultAssetBundle
+      * Directionality
+      * DropdownButtonHideUnderline
+      * FlexibleSpaceBarSettings
+      * FocusTraversalOrder
+      * HeroControllerScope
+      * InheritedModel
+      * InheritedNotifier
+      * InheritedTheme
+      * MediaQuery
+      * PrimaryScrollController
+      * RadioTheme
+      * ScrollbarTheme
+      * ScrollConfiguration
+      * SelectionRegistrarScope
+      * SwitchTheme
+      * UnmanagedRestorationScope 
   * RenderObjectWidget
   * StatefulWidget
   * StatelessWidget
