@@ -22,6 +22,14 @@
 * Flutter/foundation/diagnostics.dart -- [mixin Diagnosticable](https://api.flutter.dev/flutter/foundation/Diagnosticable-mixin.html). 
 * [DiagnosticableTree](https://api.flutter.dev/flutter/foundation/DiagnosticableTree-class.html). 
 
+
+* Widget
+  * PreferredSizeWidget
+  * ProxyWidget
+  * RenderObjectWidget
+  * StatefulWidget
+  * StatelessWidget
+
 Flutter深入浅出---MaterialApp
 45:47
 P3
