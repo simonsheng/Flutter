@@ -206,7 +206,7 @@
     * UserAccountsDrawerHeader. 
     * ValueListenableBuilder. 
     * WidgetInspector. 
-    * WidgetsApp. 
+-[ ] [WidgetsApp](https://api.flutter.dev/flutter/widgets/WidgetsApp-class.html). 
     * WillPopScope. 
     * YearPicker. 
   * StatelessWidget. 
