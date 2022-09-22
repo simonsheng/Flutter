@@ -1,2 +1,2 @@
 # StatefulWidget
-StatefulWidget is an abstract class extends from [..\Widget](./widget.md) in Widgets/framework.dart file
+StatefulWidget is an abstract class extends from [Widget](../widget.md) in Widgets/framework.dart file
